@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-api-starter-kit",
+  "version": "1.0.0",
+  "description": "NodeJS StarterKit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innomobil/nodejs-api-starter-kit.git"
+  },
+  "keywords": [
+    "starterkit"
+  ],
+  "author": "Yusuf Dede",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innomobil/nodejs-api-starter-kit/issues"
+  },
+  "homepage": "https://github.com/innomobil/nodejs-api-starter-kit#readme"
+}
